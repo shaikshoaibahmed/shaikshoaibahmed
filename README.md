@@ -1,9 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm shoaibahmedsk</h1>
+<h1 align="center">Hi :wave: , I'm shoaibahmedsk</h1>
 
 <h3 align="center">I'm a Computer Science student</h3>
 
 I am a 1rd Year Undergrad pursuing Bachelors in Technology in Computer Science Engineering from [SRINDU](https://siiet.ac.in//sriindu/). <br><br>
+**Software** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> is typically stored on an external long-term memory **device**<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, such as a hard drive or magnetic diskette. <br>
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
