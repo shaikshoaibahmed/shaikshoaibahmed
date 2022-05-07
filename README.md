@@ -25,7 +25,7 @@ I am a 1rd Year Undergrad pursuing Bachelors in Technology in Computer Science E
 <p align="left">
 <a href="https://twitter.com/iamshoaibahmeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamshoaibahmeds" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaik shoaib ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik shoaib ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/iamshoaib ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamshoaib ahmed" height="30" width="40" /></a>
+<a href="https://fb.com/iamshoaibahmed sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamshoaibahmed sk" height="30" width="40" /></a>
 <a href="https://instagram.com/iamshoaibahmedsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshoaibahmedsk" height="30" width="40" /></a>
 </p>
 
