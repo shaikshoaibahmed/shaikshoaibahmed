@@ -17,7 +17,7 @@ I am a 1rd Year Undergrad pursuing Bachelors in Technology in Computer Science E
 
 - 💬 Ask me about **linux**
 
-- 📫 How to reach me **shaikshoaib8919@gmail.com**
+- 📫 How to reach me [Mail](shaikshoaib8919@gmail.com)
 
 - ⚡ Fun fact **Men take up the bulk of developer jobs**
 
