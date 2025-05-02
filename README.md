@@ -2,7 +2,7 @@ github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo22710
 Fork on GitHub7548
-<h1 align="center">Hi 👋, I'm SHAI SHOAIB AHMED</h1>
+<h1 align="center">Hi 👋, I'm SHAIK SHOAIB AHMED</h1>
 <h3 align="center">I’m a passionate Java Full Stack Developer and Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
